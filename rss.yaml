@@ -6,7 +6,46 @@
 #     tags: tags applied in Pocket (need to be list)
 #     filter: only add the article title pass the filter (not implement)
 #
-- url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
-  name: The Economist - World
-  tags: [economist, world news]
 
+# NYT RSS Feeds
+- url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+  name: NYT - World
+  tags: [nyt, world]
+  
+- url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+  name: NYT - Technology
+  tags: [nyt, technology]
+
+- url: https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+  name: NYT - Science
+  tags: [nyt, science]
+
+- url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+  name: NYT - Business
+  tags: [nyt, business]
+
+- url: https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml
+  name: NYT - Your Money
+  tags: [nyt, money]
+
+# Economist RSS Feeds
+
+- url: https://www.economist.com/the-world-this-week/rss.xml
+  name: The Economist - The world this week
+  tags: [economist, world]
+
+- url: https://www.economist.com/special-report/rss.xml
+  name: The Economist - Special Reports
+  tags: [economist, special]
+
+- url: https://www.economist.com/business/rss.xml
+  name: The Economist - Business
+  tags: [economist, business]
+
+- url: https://www.economist.com/science-and-technology/rss.xml
+  name: The Economist - Science & Technology
+  tags: [economist, science, technology]
+
+- url: https://www.economist.com/finance-and-economics/rss.xml
+  name: The Economist - Finance & Economics
+  tags: [economist, finance, economics]
