@@ -49,3 +49,9 @@
 - url: https://www.economist.com/finance-and-economics/rss.xml
   name: The Economist - Finance & Economics
   tags: [economist, finance, economics]
+
+
+# Medium
+- url: https://www.medium.com/feed/tag/Coding
+  name: Medium - Coding
+  tags: [medium, coding]
