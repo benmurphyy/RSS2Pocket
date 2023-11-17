@@ -50,20 +50,3 @@
   name: The Economist - Finance & Economics
   tags: [economist, finance, economics]
 
-
-# Medium
-- url: https://www.medium.com/feed/tag/Coding
-  name: Medium - Coding
-  tags: [medium, coding]
-
-- url: https://www.medium.com/feed/tag/Programming
-  name: Medium - Programming
-  tags: [medium, programming]
-
-- url: https://medium.com/tag/c-plus-plus-language
-  name: Medium - C++
-  tags: [medium, c++]
-
-- url: https://medium.com/tag/gaming
-  name: Medium - Gaming
-  tags: [medium, gaming]
