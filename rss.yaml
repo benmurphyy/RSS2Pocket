@@ -50,3 +50,18 @@
   name: The Economist - Finance & Economics
   tags: [economist, finance, economics]
 
+# Scientific American RSS Feeds
+
+- url: http://rss.sciam.com/ScientificAmerican-Global
+  name: Scientific American - Latest
+  tags: [scientific_american]
+
+- url: http://rss.sciam.com/sciam/health-and-medicine
+  name: Scientific American - Health
+  tags: [scientific_american, health]
+
+- url: http://rss.sciam.com/sciam/technology
+  name: Scientific American - Tech
+  tags: [scientific_american, technology]
+
+
