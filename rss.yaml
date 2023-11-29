@@ -64,4 +64,16 @@
   name: Scientific American - Tech
   tags: [scientific_american, technology]
 
+# The Verge RSS Feeds
+
+- url: http://www.theverge.com/rss/index.xml
+  name: The Verge - All
+  tags: [the_verge, technology]
+
+# Ars Technica RSS Feeds
+
+- url: https://feeds.arstechnica.com/arstechnica/index
+  name: Ars Technica - All
+  tags: [ars_technica, technology]
+
 
