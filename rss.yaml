@@ -70,10 +70,4 @@
   name: The Verge - All
   tags: [the_verge, technology]
 
-# Ars Technica RSS Feeds
-
-- url: https://feeds.arstechnica.com/arstechnica/index
-  name: Ars Technica - All
-  tags: [ars_technica, technology]
-
 
